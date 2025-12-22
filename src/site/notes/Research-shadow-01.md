@@ -3,6 +3,8 @@
 ---
 
 
+
+[[index\|index]]
 یک گزارشگر گامهای روند کار همزمان در اجرا Any research needs a ”follow-up reporter assistant” on current work which any step of changes logged . A bot in telegram which I send a voice or text and it (by help of ai) undrestand it and add it in a row in a google sheet file. I makes a history of changes and fndings and thoughts by chronologically order. If the report has also a canvas for better underestanding of relationships of changes, it can be owesiome. Instead of canvas, in any row of xlsx sheet of report we can use labels and links to make the connections. در روند تحقیق برای تهیه یک محتوا، گاهی تا ۵ آ یی و چند پژوهشگر درگیرند درسته که از ابتدا یک پلان برای گردآوری داده ها و استفاده از آیی دارند اما در خین کار همه چیز دارد تغییر می کند گاه ختی کیورد ها عوض می‌شوند و اقدامات مابعدی ه در پلان اولیه هیت بلافاصله حذف شده یا تغییر می کنند و موارد جدید اضافه می شوند این گزارشگر هوشیار که درست شانه به شانه روند دارد می آید و همه چیز را در نقشه حرکت ثبت می کند که می نامید و در موردش چه فکر می کنید
 
 ایده‌ای که تو توصیف می‌کنی در واقع **یک «گزارشگرِ هم‌زمانِ روند پژوهش» (Follow-up Research Reporter Assistant)** است؛ نه فقط یک لاگ ساده، بلکه یک موجود زنده که شانه‌به‌شانه‌ی تحقیق حرکت می‌کند.  
