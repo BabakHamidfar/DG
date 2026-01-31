@@ -5,28 +5,18 @@
 
 # Home
 
-"index" is the home page of a Difgital Garden website which originated from obsidian.
-
-<iframe width="475" height="250" src="https://vclock.com/embed/timer/#countdown=00:02:00&date=2026-01-18T18:13:05&theme=1&ampm=1&sound=guitar" frameborder="0" allowfullscreen></iframe>
+# Medicin
 
 
-
-## Tests
-[[Archive/RLR-Research-Live-Reporter-ResearchShadow\|RLR-Research-Live-Reporter-ResearchShadow]]
-[[Flashcard/2021/210908\|210908]]
-[[Archive/three-special-types-of-psychological-pain\|three-special-types-of-psychological-pain]]
-
-## Svenska Språk
-[[Archive/Svenska-Språket-Reference-List\|Svenska-Språket-Reference-List]]
+# Svenska
 
 
-[[Untitled 7\|Untitled 7]]
-
-[[Untitled 6\|Untitled 6]]
-
-[[Untitled 11\|Untitled 11]]
-
-[[Untitled 16\|Untitled 16]]
+# Daily
+[[2026-01-30\|2026-01-30]]
+[[Medicine/2026-01-22\|2026-01-22]]
+[[Medicine/2026-01-21\|2026-01-21]]
 
 
 
+
+	
