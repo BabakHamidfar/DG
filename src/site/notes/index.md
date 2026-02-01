@@ -5,7 +5,7 @@
 
 # Home
 
-# Medicin
+# [[definition/Medicin\|Medicin]]
 
 
 # Svenska
@@ -17,6 +17,9 @@
 [[Medicine/2026-01-22\|2026-01-22]]
 [[Medicine/2026-01-21\|2026-01-21]]
 [[Medicine/2026-01-22\|2026-01-22]]
+
+[[definition/Medicin\|Medicin]]
+
 
 
 
