@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lifestyle-index/a-new-skill-in-20-hours/"}
+{"dg-publish":true,"permalink":"/lifestyle-index/a-new-skill-in-20-hours/","dg-note-properties":{}}
 ---
 
 tagging

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-master-with-a-study-partner/","tags":["läkarkunskapsprovet","cornell-notes","specialty/Kardiologi","specialty/Endokrinologi"],"dgShowLocalGraph":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/how-to-master-with-a-study-partner/","tags":["läkarkunskapsprovet","cornell-notes","specialty/Kardiologi","specialty/Endokrinologi"],"dgShowLocalGraph":true,"dgShowToc":true,"dg-note-properties":{"note-type":"exam-question","topic":null,"specialty":null,"course":null,"exam-date":null,"exam-type":null,"question-number":null,"source":null,"date":"2026-02-01","status":"in-progress","difficulty":null,"confidence":null,"tags":["läkarkunskapsprovet","cornell-notes","specialty/Kardiologi","specialty/Endokrinologi"],"review-count":0,"next-review":null,"last-review":null}}
 ---
 
 
