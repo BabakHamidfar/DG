@@ -3,9 +3,9 @@
 ---
 
 # Home
-This is a "Digital Garden". Its mission is to serve learning and mastering "Medicin i Svenska".
+En "Digital Garden" byggd i Obsidian för att främja fördjupad kunskap inom **medicin**.
 
-# [[definition/Medicin\|Medicin]]
+# [Ingress](https://sv.wikipedia.org/wiki/Ingress)
 ### Doctor-in-Sweden
 ### Intro
 ### Kunskapsprovet_Theory
@@ -13,6 +13,11 @@ This is a "Digital Garden". Its mission is to serve learning and mastering "Medi
 ### Medicine
 ### NKP_Info
 ### Svenska
+[[Flashcard/2023/2023-08-14\|2023-08-14]]
+[[How to Master with a Study Partner\|How to Master with a Study Partner]]
+[[lifestyle-index/A-new-skill-in-20-hours\|A-new-skill-in-20-hours]]
+
+# [[definition/Medicin\|Medicin]]
 ### Akutmedicin-Anestesi
 ### Cell, Biokemi, Immuno, Microb, Farma
 [[Cell-Biologi\|Cell-Biologi]]
@@ -37,10 +42,8 @@ This is a "Digital Garden". Its mission is to serve learning and mastering "Medi
 ### Tyroid
 ### Uro
 
-Svenska
-[[Flashcard/2023/2023-08-14\|2023-08-14]]
-[[How to Master with a Study Partner\|How to Master with a Study Partner]]
-[[lifestyle-index/A-new-skill-in-20-hours\|A-new-skill-in-20-hours]]
+
+
 
 
 
