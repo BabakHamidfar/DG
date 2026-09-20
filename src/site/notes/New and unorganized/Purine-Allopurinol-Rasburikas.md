@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/new-and-unorganized/purine-allopurinol-rasburikas/","tags":["fleeting","gardenEntry"],"dg-note-properties":{"note-type":"fleeting","date":"2026-04-19 08:19","tags":["fleeting","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/new-and-unorganized/purine-allopurinol-rasburikas/","tags":["fleeting"],"dg-note-properties":{"note-type":"fleeting","date":"2026-04-19 08:19","tags":["fleeting"]}}
 ---
 
 
