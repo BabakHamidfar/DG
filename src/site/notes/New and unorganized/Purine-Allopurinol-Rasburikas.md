@@ -13,6 +13,11 @@ Bilden du laddade upp visar metabolismen av puriner, och den markerade stjärnan
 
 Hos människan är den normala slutprodukten av purinnedbrytning:
 
+
+![Purine-Allopurinol-Rasburikas-1789904145856.webp](/img/user/Purine-Allopurinol-Rasburikas-1789904145856.webp)
+
+
+
 ### **Urinsyra (Uric Acid)**
 
 Här är en snabb genomgång av vad bilden visar för dina medicinstudier:
