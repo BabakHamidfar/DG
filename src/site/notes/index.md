@@ -4,10 +4,11 @@
 
 # Home
 En "Digital Garden" byggd i Obsidian för att främja fördjupad kunskap inom **medicin**.
-# 💖 [[Medicine-index\|Medicine-index]]
 
-(kunskapsprov) och (AT) + extra 
-Viktigaste ämnen INTERNMEDCIN
+[[MEDICINE-INDEX-DIS-PDF-FILES\|MEDICINE-INDEX-DIS-PDF-FILES]]
+
+# 💖 Medicine-index
+
 ## LUNGSJUKDOMAR
 1. Lungcancer
 2. Astma
@@ -303,9 +304,17 @@ Internmedicin fall
 # 👀 [Ingress](https://sv.wikipedia.org/wiki/Ingress)
 ### Doctor-in-Sweden
 ### Intro
+
 ### Kunskapsprovet_Theory
 
 ### Svenskinlärning
+
 [[Flashcard/2023/2023-08-14\|2023-08-14]]
+
 [[New and unorganized/How to Master with a Study Partner\|How to Master with a Study Partner]]
+
 [[lifestyle-index/A-new-skill-in-20-hours\|A-new-skill-in-20-hours]]
+
+[[READ-ME-MD-DOCX-PDF\|READ-ME-MD-DOCX-PDF]]
+
+[[READ-ME-DIGITALGARDEN\|READ-ME-DIGITALGARDEN]]
