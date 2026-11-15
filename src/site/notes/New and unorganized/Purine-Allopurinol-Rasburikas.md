@@ -14,7 +14,7 @@ Bilden du laddade upp visar metabolismen av puriner, och den markerade stjärnan
 Hos människan är den normala slutprodukten av purinnedbrytning:
 
 
-![Purine-Allopurinol-Rasburikas-1789904145856.webp](/img/user/Purine-Allopurinol-Rasburikas-1789904145856.webp)
+![Purine-Allopurinol-Rasburikas-1789904145856.webp](/img/user/X-tra/Images/Purine-Allopurinol-Rasburikas-1789904145856.webp)
 
 
 
